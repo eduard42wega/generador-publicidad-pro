@@ -1,0 +1,7 @@
+{
+  "name": "AI Flyer Pro - Generador de Publicidad",
+  "description": "Crea flyers publicitarios profesionales y modernos para tus productos usando inteligencia artificial de última generación.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
